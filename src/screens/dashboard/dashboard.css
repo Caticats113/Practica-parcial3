@@ -1,0 +1,25 @@
+.post{
+    width: 20%;
+    background-color: rgb(204, 204, 204);
+    border-radius: 1em;
+    padding: 1%;
+    margin: 2%;
+}
+
+.ButtonNewPost{
+    background-color:cornflowerblue;
+    color: aliceblue;
+    border: none;
+    border-radius: 0.5em;
+    padding: 0.5%;
+    margin: 2%;
+}
+
+.ButtonLogOut{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    border: none;
+    border-radius: 0.5em;
+    padding: 0.5%;
+    margin: 2%;
+}
